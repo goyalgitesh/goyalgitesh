@@ -31,16 +31,16 @@
 
 ## Languages and Tools:  
 
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/android.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/dart.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/flutter.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/tensorflow.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/html-5.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/css3.png"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/javascript.png"/>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/android.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/dart.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/flutter.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/python.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/tensorflow.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/html-5.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/css3.png"></code>
+<code><img height="40px" width="40px" src="https://img.icons8.com/color/100/000000/javascript.png"></code>
 
   
 
