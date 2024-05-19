@@ -1,9 +1,8 @@
 ## Hi, I am Gitesh Goyal 👋
 
 
-- 🔭 I’m a Mobile App Developer,Coder and ML Enthusiast. 
-- 🌱 I’m currently learning Flutter and also worked in past on some deep learning projects in Tensorflow.
-- 👯 I’m also looking to collaborate on Flutter Projects.
+- 🔭 I’m currently working as Support Engineer 2 at Amazon.
+- 🌱 I've experience in Java deveopment with AWS , Python Scripting & Automations, Machine Learning and in Flutter Development.
 - 🤔 You can reach me by clicking on my social accounts given below.
 
 ## Connect With Me:
